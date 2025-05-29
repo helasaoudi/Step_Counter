@@ -9,6 +9,18 @@
     tools:ignore="ExtraText">
 
     <!-- Inclure le layout du widget en haut de la page et réduire sa taille -->
+
+    <!--Button
+        android:id="@+id/btnTranslate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Translate"
+        android:drawableStart="@android:drawable/ic_menu_sort_alphabetically"
+        android:drawablePadding="8dp"
+        android:padding="12dp" /-->
+
+
     <include
         layout="@layout/steps_widget"
         android:id="@+id/steps_widget"
@@ -62,6 +74,7 @@
                     android:layout_marginTop="10dp"/>
 
                 <TextView
+                    android:id="@+id/distance"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Mètres"
@@ -88,6 +101,7 @@
                 android:gravity="center"
                 android:padding="16dp">
 
+
                 <ImageView
                     android:src="@drawable/clock"
                     android:layout_width="50dp"
@@ -104,6 +118,7 @@
                     android:layout_marginTop="10dp"/>
 
                 <TextView
+                    android:id="@+id/time"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Minutes"
@@ -145,6 +160,7 @@
                     android:layout_marginTop="10dp"/>
 
                 <TextView
+                    android:id="@+id/calories"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Calories"

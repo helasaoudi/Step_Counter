@@ -4,4 +4,18 @@
     <string name="appwidget_text">EXAMPLE</string>
     <string name="add_widget">Add widget</string>
     <string name="app_widget_description">This is an app widget description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA9CamnVenbDKPKO050TiGh3Q8yt3h1YfQ</string>
+    <string name="current_location">Position Actuelle</string>
+    <string name="selected_location">Emplacement Sélectionné</string>
+    <string name="distance_title">Distance et Temps</string>
+    <string name="distance_message">Distance : %s\nHeure actuelle : %s</string>
+
+    <string name="steps">Steps</string>
+    <string name="meters">Meters</string>
+    <string name="minutes">Minutes</string>
+    <string name="calories">Calories</string>
+    <string name="select_language">Select Language</string>
+
 </resources>

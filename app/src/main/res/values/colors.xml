@@ -9,6 +9,7 @@
     <color name="custom_blue">#58e6ed</color>
     <color name="teal_200">#03DAC5</color>
     <color name="purple_700">#3700B3</color>
+    <color name="colorPrimary">#FF6200EE</color> <!-- Couleur de la ligne -->
 
 
 </resources>

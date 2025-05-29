@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_change_language"
+        android:title="@string/select_language"
+        android:orderInCategory="100"
+        android:showAsAction="always" />
+</menu>

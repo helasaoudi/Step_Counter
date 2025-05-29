@@ -51,6 +51,16 @@ dependencies {
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("com.google.android.material:material:1.9.0")
 
+    implementation ("com.google.android.gms:play-services-maps:18.0.0")
+    implementation ("com.google.android.gms:play-services-location:19.0.0")
+    //added
+    implementation ("com.google.maps.android:android-maps-utils:2.3.0")
+    implementation ("com.google.android.libraries.places:places:2.6.0")
+    implementation ("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
+
     // MPAndroidChart (Correction: enlever le "v" devant la version)
     implementation("com.github.PhilJay:MPAndroidChart:3.1.0")
+
+
 }

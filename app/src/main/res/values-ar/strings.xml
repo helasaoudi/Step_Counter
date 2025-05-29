@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">تطبيقي</string>
+    <string name="steps">خطوات</string>
+    <string name="meters">أمتار</string>
+    <string name="minutes">دقائق</string>
+    <string name="calories">سعرات حرارية</string>
+    <string name="select_language">اختر اللغة</string>
+</resources>

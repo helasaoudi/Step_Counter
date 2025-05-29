@@ -41,6 +41,9 @@ public class MainActivity extends AppCompatActivity {
                     } else if (itemId == R.id.nav_statistiques) {
                         selectedFragment = new StatistiquesFragment();
                     }
+                else if (itemId == R.id.nav_map) {
+                    selectedFragment = new MapFragment();
+                }
 
                     if (selectedFragment != null) {
                         getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,

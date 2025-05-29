@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mon Application</string>
+    <string name="steps">Pas</string>
+    <string name="meters">Mètres</string>
+    <string name="minutes">Minutes</string>
+    <string name="calories">Calories</string>
+    <string name="select_language">Choisir la langue</string>
+</resources>
